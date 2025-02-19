@@ -9,7 +9,7 @@
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
-    <sonar.organization>kavu-23</sonar.organization>
+    <sonar.organization>Kavu-23</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     <sonar.projectKey>Kavu-23_SimpleMaven</sonar.projectKey>
 </properties>
